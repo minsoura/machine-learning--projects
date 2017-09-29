@@ -1,0 +1,186 @@
+6:8 --> 말 1위 만 넣었을 때
+
+win 6 times and lose 16 times
+half_win 13 times and half_lose 9 times
+Finally, you have 9470000 won
+
+
+
+6:8 --> 말 1,2위 만 넣었을 때 베
+
+win 21 times and lose 67 times for 복승식
+half_win 47 times and half_lose 41 times for 연승식
+half_win_2 21 times and half_lose_2 67 times for 복연승식
+Finally, you have 86090000 won
+
+
+6:8 --> 말 1,2위 만 넣었을 때 베
+3~4월 모든 경기
+win 29 times and lose 147 times  for 복승식 승률 0.165
+half_win 82 times and half_lose 94 times for 연승식
+half_win_2 29 times and half_lose_2 147 times for 복연승식
+Finally, you have 68500000 won
+
+6:8 --> 말 1,2위 만 넣었을 때 베
+4월 모든 경기
+win 14 times and lose 74 times  for 복승식 승률 0.159
+half_win 28 times and half_lose 60 times for 연승식
+half_win_2 14 times and half_lose_2 74 times for 복연승식
+Finally, you have 52080000 won
+
+6:8 --> 말 1,2위 만 넣었을 때 베
+4월 1,2주 경기
+
+win 7 times and lose 37 times  for 복승식 승률 0.159
+half_win 17 times and half_lose 27 times for 연승식
+half_win_2 7 times and half_lose_2 37 times for 복연승식
+Finally, you have 54190000 won
+
+
+
+12:14 --> 말 승률, 기수 1위 만 넣었을 때 베
+4월 1,2주 경기
+win 17 times and lose 27 times  for 복승식 승률 0.386
+half_win 21 times and half_lose 23 times for 연승식
+half_win_2 17 times and half_lose_2 27 times for 복연승식
+Finally, you have 59690000 won
+
+
+12:14 --> 말 승률, 기수 1위 만 넣었을 때 베
+4월 전체 경기
+win 32 times and lose 56 times  for 복승식 승률 0.364
+half_win 42 times and half_lose 46 times for 연승식
+half_win_2 32 times and half_lose_2 56 times for 복연승식
+Finally, you have 7542000 won
+
+
+
+6:7 --> 말 1위만 넣었을 때 베
+4월 전체 경기
+win 34 times and lose 54 times  for 복승식 승률 0.386
+half_win 54 times and half_lose 34 times for 연승식
+half_win_2 34 times and half_lose_2 54 times for 복연승식
+Finally, you have 8272000 won
+
+
+12:13 말 승률
+win 26 times and lose 62 times  for 복승식 승률 0.295
+half_win 42 times and half_lose 46 times for 연승식
+half_win_2 26 times and half_lose_2 62 times for 복연승식
+Finally, you have 6892000 won
+
+
+13:14 -->기수 1위만 넣었을때
+win 29 times and lose 59 times  for 복승식 승률 0.330
+half_win 46 times and half_lose 42 times for 연승식
+half_win_2 29 times and half_lose_2 59 times for 복연승식
+Finally, you have 7341000 won
+
+
+6:7--> 말 1위만 넣었을 때 2,3,4월 동안
+win 114 times and lose 154 times  for 복승식 승률 0.425
+half_win 187 times and half_lose 81 times for 연승식
+half_win_2 114 times and half_lose_2 154 times for 복연승식
+Finally, you have 27277000 won
+
+6:7 --> 말 1위만 넣었을 때 12,12,3,4월 동안
+win 186 times and lose 253 times  for 복승식 승률 0.424
+half_win 303 times and half_lose 136 times for 연승식
+half_win_2 186 times and half_lose_2 253 times for 복연승식
+Finally, you have 47383000 won
+
+
+12:14 -->말 승률, 기수 1위만 넣었을때
+12,1,2,3,4월 동안
+win 135 times and lose 304 times  for 복승식 승률 0.308
+half_win 216 times and half_lose 223 times for 연승식
+half_win_2 135 times and half_lose_2 304 times for 복연승식
+Finally, you have 39252000 won
+
+
+6:7 --> 말 1위만 넣었을 때 12,12,3,4월 동안
+12,1,2,3,4월 동안 class weight balanced
+win 183 times and lose 256 times  for 복승식 승률 0.417
+half_win 309 times and half_lose 130 times for 연승식
+half_win_2 183 times and half_lose_2 256 times for 복연승식
+Finally, you have 44203000 won
+
+
+
+6:7 --> 말 1위만 넣었을 때 12,12,3,4월 동안
+12,1,2,3,4월 동안 but c_w none, kernel : linear
+win 154 times and lose 285 times  for 복승식 승률 0.351
+half_win 246 times and half_lose 193 times for 연승식
+half_win_2 154 times and half_lose_2 285 times for 복연승식
+Finally, you have 40386000 won
+
+
+win 272 times and lose 369 times  for 복승식 승률 0.424
+half_win 446 times and half_lose 195 times for 연승식
+half_win_2 272 times and half_lose_2 369 times for 복연승식
+Finally, you have 83976000 won by investing 6410000 won
+
+C= 15
+win 247 times and lose 394 times  for 복승식 승률 0.385
+half_win 418 times and half_lose 223 times for 연승식
+half_win_2 247 times and half_lose_2 394 times for 복연승식
+Finally, you have 89826000 won by investing 6410000 won
+
+c=20
+win 271 times and lose 370 times  for 복승식 승률 0.423
+half_win 461 times and half_lose 180 times for 연승식
+half_win_2 271 times and half_lose_2 370 times for 복연승식
+Finally, you have 82274000 won by investing 6410000 won
+
+18 trainer 1위
+win 231 times and lose 410 times  for 복승식 승률 0.360
+half_win 362 times and half_lose 279 times for 연승식
+half_win_2 231 times and half_lose_2 410 times for 복연승식
+Finally, you have 66656000 won by investing 6410000 won
+
+말 1위, 그러나 조건을 다르게 1등일 경우만 1 else 0
+win 218 times and lose 423 times  for 복승식 승률 0.340
+half_win 401 times and half_lose 240 times for 연승식
+half_win_2 218 times and half_lose_2 423 times for 복연승식
+Finally, you have 81257000 won by investing 6410000 won
+
+
+
+말 1위, 그러나 조건을 다르게 3등일 경우만 1 else 0
+
+win 240 times and lose 401 times  for 복승식 승률 0.374
+half_win 404 times and half_lose 237 times for 연승식
+half_win_2 240 times and half_lose_2 401 times for 복연승식
+Finally, you have 74922000 won by investing 6410000 won
+
+
+말 1위, 원래 조건 1 else 0
+
+win 272 times and lose 369 times  for 복승식 승률 0.424
+half_win 446 times and half_lose 195 times for 연승식
+half_win_2 272 times and half_lose_2 369 times for 복연승식
+Finally, you have 83976000 won by investing 6410000 won
+
+말, 기수, 조교 1위
+win 195 times and lose 446 times  for 복승식 승률 0.304
+half_win 310 times and half_lose 331 times for 연승식
+half_win_2 195 times and half_lose_2 446 times for 복연승식
+Finally, you have 57949000 won by investing 6410000 won
+
+Process finished with exit code 0
+
+말 1위 데이터로만
+2016~8월 ~현재 데이터
+win 354 times and lose 543 times  for 복승식 승률 0.395
+half_win 573 times and half_lose 324 times for 연승식
+half_win_2 354 times and half_lose_2 543 times for 복연승식
+Finally, you have 105791000 won by investing 8970000 won
+
+=======================
+
+win 22 times and lose 875 times  for 복승식 승률 0.025
+win 12 times and lose 885 times  for 쌍복승식 승률 0.013
+half_win 142 times and half_lose 755 times for 연승식
+half_win_2 22 times and half_lose_2 875 times for 복연승식
+Finally, you have -1541000 won by investing 8970000 won
+

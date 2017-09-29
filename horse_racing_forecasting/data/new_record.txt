@@ -1,0 +1,56 @@
+1. model : 3combos model, horse, trainer, jockey
+
+win 22 times and lose 875 times  for 복승식 승률 0.025
+win 12 times and lose 885 times  for 쌍복승식 승률 0.013
+half_win 142 times and half_lose 755 times for 연승식
+half_win_2 22 times and half_lose_2 875 times for 복연승식
+Finally, you have -1541000 won by investing 8970000 won
+
+2.model 3 combo 승률, 말승률, 기수 승률, 조교사 승률 + 나이 몸무게
+win 71 times and lose 826 times  for 복승식 승률 0.079
+win 32 times and lose 865 times  for 쌍복승식 승률 0.036
+half_win 331 times and half_lose 566 times for 연승식
+half_win_2 71 times and half_lose_2 826 times for 복연승식
+Finally, you have -3139000 won by investing 8970000 won
+
+2.model 3개 만들어서 각각의 확률은 구한다음 더함.
+win 79 times and lose 818 times  for 복승식 승률 0.088
+win 38 times and lose 859 times  for 쌍복승식 승률 0.042
+half_win 349 times and half_lose 548 times for 연승식
+half_win_2 79 times and half_lose_2 818 times for 복연승식
+Finally, you have -2437000 won by investing 8970000 won
+
+
+==================================================
+win 9 times and lose 35 times  for 복승식 승률 0.205
+win 7 times and lose 37 times  for 쌍복승식 승률 0.159
+half_win 27 times and half_lose 17 times for 연승식
+half_win_2 9 times and half_lose_2 35 times for 복연승식
+Finally, you have 7700000 won by investing 4400000 won
+
+win 4 times and lose 40 times  for 복승식 승률 0.091
+win 2 times and lose 42 times  for 쌍복승식 승률 0.045
+half_win 24 times and half_lose 20 times for 연승식
+half_win_2 4 times and half_lose_2 40 times for 복연승식
+Finally, you have 5120000 won by investing 4400000 won
+
+
+
+win 4 times and lose 40 times  for 복승식 승률 0.091
+win 2 times and lose 42 times  for 쌍복승식 승률 0.045
+half_win 24 times and half_lose 20 times for 연승식
+half_win_2 4 times and half_lose_2 40 times for 복연승식
+Finally, you have 2210000 won by investing 4400000 won
+
+win 5 times and lose 39 times  for 복승식 승률 0.114
+win 0 times and lose 44 times  for 쌍복승식 승률 0.000
+half_win 21 times and half_lose 23 times for 연승식
+half_win_2 5 times and half_lose_2 39 times for 복연승식
+Finally, you have 2690000 won by investing 4400000 won
+
+
+win 6 times and lose 38 times  for 복승식 승률 0.136
+win 2 times and lose 42 times  for 쌍복승식 승률 0.045
+half_win 21 times and half_lose 23 times for 연승식
+half_win_2 6 times and half_lose_2 38 times for 복연승식
+Finally, you have 2540000 won by investing 4400000 won
